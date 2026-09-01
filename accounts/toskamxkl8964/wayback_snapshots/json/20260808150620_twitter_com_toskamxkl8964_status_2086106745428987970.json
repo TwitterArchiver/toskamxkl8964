@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2086037014642868418",
+    "created_at": "2026-08-08T15:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T16:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086106745428987970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 21,
+          "id": "1916974498903166978",
+          "start": 9,
+          "username": "Drug_wuming"
+        },
+        {
+          "end": 33,
+          "id": "764625853183619072",
+          "start": 22,
+          "username": "ODShopLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086106745428987970",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086037014642868418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @Drug_wuming @ODShopLove 雾草蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2086037014642868418",
+        "created_at": "2026-08-08T15:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086106745428987970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 21,
+              "id": "1916974498903166978",
+              "start": 9,
+              "username": "Drug_wuming"
+            },
+            {
+              "end": 33,
+              "id": "764625853183619072",
+              "start": 22,
+              "username": "ODShopLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086106745428987970",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086037014642868418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @Drug_wuming @ODShopLove 雾草蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2086037014642868418",
+        "created_at": "2026-08-08T10:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086037014642868418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "764625853183619072",
+              "start": 37,
+              "username": "ODShopLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086037014642868418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "立秋了，该喝杯热奶茶热咖啡犒劳一下自己了，ODShop的夜一大佬出资，关注@ODShopLove+本贴文转发，为大家抽两个饮品类代付，小到蜜雪冰城大到沪上阿姨，代付单价最高40！ODShop是一个超强阵容建立的💊一站式社区，让人不再心惊胆战的被骗，能放心的shopping之地！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 157,
+          "like_count": 1085,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 541,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "24岁中年大叔/曾经0D 3年/目前戒掉回归生活中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1009,
+          "like_count": 815,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T00:53:04.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ODShop.love",
+                "end": 23,
+                "expanded_url": "http://ODShop.love",
+                "start": 0,
+                "url": "https://t.co/7jDgMresYt"
+              }
+            ]
+          }
+        },
+        "id": "764625853183619072",
+        "location": "梦境",
+        "name": "ODShop.love 愛是药片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 40,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/7jDgMresYt",
+        "username": "ODShopLove",
+        "verified": true
+      }
+    ]
+  }
+}

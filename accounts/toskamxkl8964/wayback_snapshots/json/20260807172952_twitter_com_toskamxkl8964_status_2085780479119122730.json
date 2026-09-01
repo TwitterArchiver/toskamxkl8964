@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085780345043963905"
+      ]
+    },
+    "author_id": "2055365812660133888",
+    "conversation_id": "2085780479119122730",
+    "created_at": "2026-08-07T17:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085780479119122730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GR4f51xAyM",
+          "end": 23,
+          "expanded_url": "https://x.com/toskamxkl8964/status/2085780479119122730/video/1",
+          "media_key": "13_2085780345043963905",
+          "start": 0,
+          "url": "https://t.co/GR4f51xAyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085780479119122730",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GR4f51xAyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15861,
+        "height": 710,
+        "media_key": "13_2085780345043963905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085780345043963905/img/dsQFqntyVEl2kDUG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085780345043963905/vid/avc1/486x270/Yi0-n6bSenB-Qij9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085780345043963905/vid/avc1/648x360/9PcceskgykAT6_-v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085780345043963905/vid/avc1/1280x710/rQ-zkd8TtREFkJhx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085780345043963905/pl/_yLP2gkyIahl21Qd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085780345043963905"
+          ]
+        },
+        "author_id": "2055365812660133888",
+        "conversation_id": "2085780479119122730",
+        "created_at": "2026-08-07T17:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085780479119122730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GR4f51xAyM",
+              "end": 23,
+              "expanded_url": "https://x.com/toskamxkl8964/status/2085780479119122730/video/1",
+              "media_key": "13_2085780345043963905",
+              "start": 0,
+              "url": "https://t.co/GR4f51xAyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085780479119122730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GR4f51xAyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 149,
+          "like_count": 996,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      }
+    ]
+  }
+}

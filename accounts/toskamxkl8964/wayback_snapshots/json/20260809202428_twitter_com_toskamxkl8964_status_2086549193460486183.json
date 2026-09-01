@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2086096907160399989",
+    "created_at": "2026-08-09T20:24:28.000Z",
+    "display_text_range": [
+      13,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086549193460486183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042902722731556864",
+          "start": 0,
+          "username": "se_hui96909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086549193460486183",
+    "in_reply_to_user_id": "2042902722731556864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086441545994211681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@se_hui96909 我攻击谁了🤣谁他妈想吸引处男，13.14是我互关打的，我很感动怎么了？如果你觉得那些把少数群体发在国内大众平台审判的人和登推仅仅为了辱骂某个群体的人是正确的，那我没话说 我幸福着退让了😂还有这是我小号，本来看你关注列表我都懒得鸟你 一段话下来豆包赢得了mvp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2086096907160399989",
+        "created_at": "2026-08-09T20:24:28.000Z",
+        "display_text_range": [
+          13,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086549193460486183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042902722731556864",
+              "start": 0,
+              "username": "se_hui96909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086549193460486183",
+        "in_reply_to_user_id": "2042902722731556864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086441545994211681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@se_hui96909 我攻击谁了🤣谁他妈想吸引处男，13.14是我互关打的，我很感动怎么了？如果你觉得那些把少数群体发在国内大众平台审判的人和登推仅仅为了辱骂某个群体的人是正确的，那我没话说 我幸福着退让了😂还有这是我小号，本来看你关注列表我都懒得鸟你 一段话下来豆包赢得了mvp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042902722731556864",
+        "conversation_id": "2086096907160399989",
+        "created_at": "2026-08-09T13:16:43.000Z",
+        "display_text_range": [
+          15,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086441545994211681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055365812660133888",
+              "start": 0,
+              "username": "toskamxkl8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086441545994211681",
+        "in_reply_to_user_id": "2055365812660133888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086096907160399989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskamxkl8964 兄弟我知道你 你是主页挂着赞赏码 俩月前刚注册推特就立刻跟抖人划分界限融入推特集体 是抖音推特同时发布视频 是 13.14 发推特感动哭 是吸引一堆处男私信 是抖人 是亚空间 是小众 是跟一堆同性抱团取暖攻击不同意见的人 是宗教群体 是军方 是五十步笑百步😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086549193460486183",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055365812660133888/1785425775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 155,
+          "like_count": 1222,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T09:49:58.000Z",
+        "description": "185/124 仅记录生活",
+        "id": "2042902722731556864",
+        "is_identity_verified": false,
+        "location": "距离你 0.1km",
+        "most_recent_tweet_id": "2086487659602714783",
+        "name": "灰色",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042902722731556864/1775901411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074725838197866496/xszhJsSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 38,
+          "like_count": 5461,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "se_hui96909",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

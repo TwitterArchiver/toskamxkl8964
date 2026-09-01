@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2084933457319547111",
+    "created_at": "2026-08-05T18:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085070515673104408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065372497403674624",
+          "start": 0,
+          "username": "Huhio3i"
+        },
+        {
+          "end": 23,
+          "id": "1946149148878852096",
+          "start": 9,
+          "username": "todorokidoya1"
+        },
+        {
+          "end": 34,
+          "id": "2059326143640276992",
+          "start": 24,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085070515673104408",
+    "in_reply_to_user_id": "2065372497403674624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084933457319547111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhio3i @todorokidoya1 @Huhiosc3x 我靠又掉一个🥲"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Huhiosc3x].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Huhiosc3x",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Huhiosc3x"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2084933434368294912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8r6X_bgAA7q13.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2084933457319547111",
+        "created_at": "2026-08-05T18:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085070515673104408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065372497403674624",
+              "start": 0,
+              "username": "Huhio3i"
+            },
+            {
+              "end": 23,
+              "id": "1946149148878852096",
+              "start": 9,
+              "username": "todorokidoya1"
+            },
+            {
+              "end": 34,
+              "id": "2059326143640276992",
+              "start": 24,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085070515673104408",
+        "in_reply_to_user_id": "2065372497403674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084933457319547111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhio3i @todorokidoya1 @Huhiosc3x 我靠又掉一个🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084933434368294912"
+          ]
+        },
+        "author_id": "2065372497403674624",
+        "conversation_id": "2084933457319547111",
+        "created_at": "2026-08-05T09:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084933457319547111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059326143640276992",
+              "start": 5,
+              "username": "Huhiosc3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCp8IjY7SC",
+              "end": 59,
+              "expanded_url": "https://x.com/Huhio3i/status/2084933457319547111/photo/1",
+              "media_key": "3_2084933434368294912",
+              "start": 36,
+              "url": "https://t.co/DCp8IjY7SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084933457319547111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大家好这个@HuHiosc3x 被奸人所害求大家助力我找回亲亲互关好吗 https://t.co/DCp8IjY7SC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 134,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2084933457319547111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084950581089808384/ZE5QvUQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 58,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Huhio3i",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "我能否撑到黎明\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2084958315042509161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 0,
+          "like_count": 66388,
+          "listed_count": 0,
+          "media_count": 441,
+          "tweet_count": 4634
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

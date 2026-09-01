@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2083518565450399848",
+    "created_at": "2026-08-01T12:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083530600644755506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083530600644755506",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083518565450399848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 帅啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083518559234535424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzYbsAA77WV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083518559268020224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzgaoAAQIag.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083518559234433024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzYaIAApSfH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083518559272218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOolFzhasAAq-OQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2083518565450399848",
+        "created_at": "2026-08-01T12:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083530600644755506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083530600644755506",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083518565450399848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 帅啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083518559234535424",
+            "3_2083518559268020224",
+            "3_2083518559234433024",
+            "3_2083518559272218624"
+          ]
+        },
+        "author_id": "1860377535215013888",
+        "conversation_id": "2083518565450399848",
+        "created_at": "2026-08-01T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083518565450399848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559234535424",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            },
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559268020224",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            },
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559234433024",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            },
+            {
+              "display_url": "pic.x.com/rzJ5DdUJ9k",
+              "end": 27,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2083518565450399848/photo/1",
+              "media_key": "3_2083518559272218624",
+              "start": 4,
+              "url": "https://t.co/rzJ5DdUJ9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083518565450399848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舌钉👅 https://t.co/rzJ5DdUJ9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 118,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "ENTP｜keep honored\n称呼随意什麼都行 Arai/kilo\n｜生理女心理女^欢迎聊天^互關大歡迎｜\n-\n双手合十的时候，第一个听到祈祷的人是自己。",
+        "id": "1860377535215013888",
+        "location": "Singapore",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2081818446371934245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 243,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2084612068561584580",
+    "created_at": "2026-08-04T13:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084637769242935421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070310369701113856",
+          "start": 0,
+          "username": "6639mody"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084637769242935421",
+    "in_reply_to_user_id": "2070310369701113856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084612068561584580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6639mody 好厉害！恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084611992195854336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4Hj-lacAABgWL.jpg",
+        "width": 837
+      },
+      {
+        "height": 2130,
+        "media_key": "3_2084612039297937408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4HmuDbMAA4RoQ.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2084612068561584580",
+        "created_at": "2026-08-04T13:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084637769242935421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070310369701113856",
+              "start": 0,
+              "username": "6639mody"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084637769242935421",
+        "in_reply_to_user_id": "2070310369701113856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084612068561584580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6639mody 好厉害！恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084611992195854336",
+            "3_2084612039297937408"
+          ]
+        },
+        "author_id": "2070310369701113856",
+        "conversation_id": "2084612068561584580",
+        "created_at": "2026-08-04T12:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084612068561584580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGEItGSk8F",
+              "end": 31,
+              "expanded_url": "https://x.com/6639mody/status/2084612068561584580/photo/1",
+              "media_key": "3_2084611992195854336",
+              "start": 8,
+              "url": "https://t.co/sGEItGSk8F"
+            },
+            {
+              "display_url": "pic.x.com/sGEItGSk8F",
+              "end": 31,
+              "expanded_url": "https://x.com/6639mody/status/2084612068561584580/photo/1",
+              "media_key": "3_2084612039297937408",
+              "start": 8,
+              "url": "https://t.co/sGEItGSk8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084612068561584580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挣钱了我操^^ https://t.co/sGEItGSk8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 131,
+          "like_count": 636,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T00:58:09.000Z",
+        "description": "滚",
+        "id": "2070310369701113856",
+        "name": "modyyy",
+        "pinned_tweet_id": "2083019779204583685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082995577126883329/5_p2xd8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 55,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "6639mody",
+        "verified": false
+      }
+    ]
+  }
+}

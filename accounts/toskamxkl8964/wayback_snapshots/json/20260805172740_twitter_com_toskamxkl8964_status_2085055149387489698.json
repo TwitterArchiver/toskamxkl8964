@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2085055149387489698",
+    "created_at": "2026-08-05T17:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085055149387489698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lu_boli/status…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/lu_boli/status/2084897554379186235",
+          "start": 37,
+          "url": "https://t.co/X8ZPRzlcPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085055149387489698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084897554379186235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有那些傻逼日媒报道非要加个酒吧女郎，此事件和她是什么职业到底有什么关系 https://t.co/X8ZPRzlcPx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2085055149387489698",
+        "created_at": "2026-08-05T17:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085055149387489698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lu_boli/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lu_boli/status/2084897554379186235",
+              "start": 37,
+              "url": "https://t.co/X8ZPRzlcPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085055149387489698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084897554379186235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有那些傻逼日媒报道非要加个酒吧女郎，此事件和她是什么职业到底有什么关系 https://t.co/X8ZPRzlcPx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831585706722127874",
+        "conversation_id": "2084897554379186235",
+        "created_at": "2026-08-05T07:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084897554379186235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084897554379186235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 358859,
+          "like_count": 6047,
+          "quote_count": 7,
+          "reply_count": 447,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "这个签售姐都去世了居然还有人拿她的职业说事 就算是卖水女但这在日本是个合法职业啊 她是日本人啊 我不知道人为什么能刻薄成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 132,
+          "like_count": 726,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T06:50:48.000Z",
+        "description": "love wins@all",
+        "id": "1831585706722127874",
+        "name": "boli lu",
+        "pinned_tweet_id": "2080459160106479942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919992449222770691/pPa1v_kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 254,
+          "like_count": 18945,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 4441
+        },
+        "url": "",
+        "username": "lu_boli",
+        "verified": false
+      }
+    ]
+  }
+}

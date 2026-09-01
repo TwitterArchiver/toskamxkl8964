@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2088800946025599327",
+    "created_at": "2026-08-16T05:17:46.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088857730685563238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547081573962375170",
+          "start": 0,
+          "username": "mykfc6657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088857730685563238",
+    "in_reply_to_user_id": "1547081573962375170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088800946025599327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mykfc6657 恭喜斑鸠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 134,
+        "media_key": "3_2088800938257682432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzpYutaEAAXqB2.jpg",
+        "width": 281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2088800946025599327",
+        "created_at": "2026-08-16T05:17:46.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088857730685563238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547081573962375170",
+              "start": 0,
+              "username": "mykfc6657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088857730685563238",
+        "in_reply_to_user_id": "1547081573962375170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088800946025599327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mykfc6657 恭喜斑鸠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088800938257682432"
+          ]
+        },
+        "author_id": "1547081573962375170",
+        "conversation_id": "2088800946025599327",
+        "created_at": "2026-08-16T01:32:08.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088800946025599327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJO8uOfUuf",
+              "end": 41,
+              "expanded_url": "https://x.com/mykfc6657/status/2088800946025599327/photo/1",
+              "media_key": "3_2088800938257682432",
+              "start": 18,
+              "url": "https://t.co/cJO8uOfUuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088800946025599327",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088800938257682432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会告诉你们我已经500fo了的 https://t.co/cJO8uOfUuf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点 叫我卡卡吧…我突然想出来的就是\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088857730685563238",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055365812660133888/1785425775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 166,
+          "like_count": 2222,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T04:52:58.000Z",
+        "description": "你说得对，但是我是一只珠颈斑鸠。\n非常非常非常欢迎互fo或私信我\n天蝎 06 enfp\\infp 是男生！\n个人网站👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "222-803.pages.dev",
+                "end": 23,
+                "expanded_url": "https://222-803.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/XghSZrismn"
+              }
+            ]
+          }
+        },
+        "id": "1547081573962375170",
+        "is_identity_verified": false,
+        "location": "冥府",
+        "most_recent_tweet_id": "2088835771826659459",
+        "name": "珠颈斑鸠",
+        "pinned_tweet_id": "2086347325887381720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547081573962375170/1780835278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088167671196229632/1-KzKltk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 378,
+          "like_count": 2006,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/XghSZrismn",
+        "username": "mykfc6657",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

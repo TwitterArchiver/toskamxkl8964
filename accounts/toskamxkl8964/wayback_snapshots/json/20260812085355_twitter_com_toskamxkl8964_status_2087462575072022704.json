@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2087462575072022704",
+    "created_at": "2026-08-12T08:53:55.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087462575072022704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meiyisi456/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/meiyisi456/status/2087143854835392659",
+          "start": 37,
+          "url": "https://t.co/sZNgkhuLgY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087462575072022704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087143854835392659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉你们不要嫌我回消息慢 我每次登微信都要先清内存 有时候懒得清就不上线了 https://t.co/sZNgkhuLgY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2087462575072022704",
+        "created_at": "2026-08-12T08:53:55.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087462575072022704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiyisi456/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/meiyisi456/status/2087143854835392659",
+              "start": 37,
+              "url": "https://t.co/sZNgkhuLgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087462575072022704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087143854835392659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉你们不要嫌我回消息慢 我每次登微信都要先清内存 有时候懒得清就不上线了 https://t.co/sZNgkhuLgY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344757688845160450",
+        "conversation_id": "2087143854835392659",
+        "created_at": "2026-08-11T11:47:26.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087143854835392659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087143854835392659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 406929,
+          "like_count": 3179,
+          "quote_count": 10,
+          "reply_count": 373,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要批评一下国内的软件，推特用了这么多年才一个多g，那微信抖音各种游戏动辄三四十G，你们到底想干啥？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087462575072022704",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055365812660133888/1785425775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 158,
+          "like_count": 1664,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T21:29:59.000Z",
+        "description": "",
+        "id": "1344757688845160450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087145116528210071",
+        "name": "350234",
+        "pinned_tweet_id": "2058236210460622856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344757688845160450/1756074517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082481774807109632/8cP5JAe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9988,
+          "following_count": 351,
+          "like_count": 2362,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 2241
+        },
+        "url": "",
+        "username": "meiyisi456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

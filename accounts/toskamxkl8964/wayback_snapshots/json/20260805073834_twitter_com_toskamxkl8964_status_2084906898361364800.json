@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2084906898361364800",
+    "created_at": "2026-08-05T07:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084906898361364800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sramirez66171/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/sramirez66171/status/2084587082589089947",
+          "start": 8,
+          "url": "https://t.co/8cRigX1MPJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084906898361364800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084587082589089947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "msk是我狗子 https://t.co/8cRigX1MPJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_2084586949172424704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3wySDWcAA7729.png",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2084906898361364800",
+        "created_at": "2026-08-05T07:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084906898361364800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sramirez66171/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sramirez66171/status/2084587082589089947",
+              "start": 8,
+              "url": "https://t.co/8cRigX1MPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084906898361364800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084587082589089947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "msk是我狗子 https://t.co/8cRigX1MPJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084586949172424704"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084587082589089947",
+        "created_at": "2026-08-04T10:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084587082589089947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BH1HpyKx4",
+              "end": 34,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084587082589089947/photo/1",
+              "media_key": "3_2084586949172424704",
+              "start": 11,
+              "url": "https://t.co/1BH1HpyKx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587082589089947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1450,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "msk你自己笑了没有 https://t.co/1BH1HpyKx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 127,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 239,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

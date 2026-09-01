@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2088445269876826381",
+    "created_at": "2026-08-15T08:52:43.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088549436754440320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2069070871088803840",
+          "start": 0,
+          "username": "ib3t1gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088549436754440320",
+    "in_reply_to_user_id": "2069070871088803840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088445269876826381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ib3t1gg 救命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088445260733325312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPul5krboAAe33w.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088445260737425408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPul5ksaMAA-omd.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2088445269876826381",
+        "created_at": "2026-08-15T08:52:43.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088549436754440320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2069070871088803840",
+              "start": 0,
+              "username": "ib3t1gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088549436754440320",
+        "in_reply_to_user_id": "2069070871088803840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088445269876826381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ib3t1gg 救命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088445260733325312",
+            "3_2088445260737425408"
+          ]
+        },
+        "author_id": "2069070871088803840",
+        "conversation_id": "2088445269876826381",
+        "created_at": "2026-08-15T01:58:48.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088445269876826381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkjiTv0xmA",
+              "end": 73,
+              "expanded_url": "https://x.com/ib3t1gg/status/2088445269876826381/photo/1",
+              "media_key": "3_2088445260733325312",
+              "start": 50,
+              "url": "https://t.co/AkjiTv0xmA"
+            },
+            {
+              "display_url": "pic.x.com/AkjiTv0xmA",
+              "end": 73,
+              "expanded_url": "https://x.com/ib3t1gg/status/2088445269876826381/photo/1",
+              "media_key": "3_2088445260737425408",
+              "start": 50,
+              "url": "https://t.co/AkjiTv0xmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088445269876826381",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088445260733325312"
+          },
+          {
+            "media_key": "3_2088445260737425408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操。我耽小妹时候在抖音发的作品为啥全被同步到今日头条了。我抖音都全私密了。在今日头条展示这么久。 https://t.co/AkjiTv0xmA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点 叫我卡卡吧…我突然想出来的就是\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088549436754440320",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055365812660133888/1785425775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 164,
+          "like_count": 2121,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T14:58:20.000Z",
+        "description": "bi。我是昕雪。@9wvyi这个号不怎么用了。\n私信随缘回。我都会看但是有的不想回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 8,
+                "username": "9wvyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxue2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxue2",
+                "start": 0,
+                "url": "https://t.co/NALk5sIXFS"
+              }
+            ]
+          }
+        },
+        "id": "2069070871088803840",
+        "is_identity_verified": false,
+        "location": "你的身边",
+        "most_recent_tweet_id": "2088445269876826381",
+        "name": "腐爛的你听得見嗎",
+        "pinned_tweet_id": "2082828757761765458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069070871088803840/1785071238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081365694541975552/nMJcGiep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 78,
+          "like_count": 7123,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/NALk5sIXFS",
+        "username": "ib3t1gg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

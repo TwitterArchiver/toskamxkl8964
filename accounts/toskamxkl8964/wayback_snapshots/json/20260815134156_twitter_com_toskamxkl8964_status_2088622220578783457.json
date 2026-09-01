@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2088473315874623719",
+    "created_at": "2026-08-15T13:41:56.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088622220578783457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065111068356304896",
+          "start": 0,
+          "username": "Amiluon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088622220578783457",
+    "in_reply_to_user_id": "2065111068356304896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088473315874623719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiluon 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2088473315874623719",
+        "created_at": "2026-08-15T13:41:56.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088622220578783457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065111068356304896",
+              "start": 0,
+              "username": "Amiluon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088622220578783457",
+        "in_reply_to_user_id": "2065111068356304896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088473315874623719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiluon 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065111068356304896",
+        "conversation_id": "2088473315874623719",
+        "created_at": "2026-08-15T03:50:15.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088473315874623719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ririnkachan080…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Ririnkachan0808/status/2088155940629729744",
+              "start": 64,
+              "url": "https://t.co/8IoqisQpso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088473315874623719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088155940629729744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要真踏马想死 我有个建议 （别给自己猪蹄该花刀了 我不吃）\n1.找个高楼跳\n2.拿🔪捅自己脖子\n3在国道乘大运不注意跳出来吓他 https://t.co/8IoqisQpso"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点 叫我卡卡吧…我突然想出来的就是\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088622220578783457",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055365812660133888/1785425775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 164,
+          "like_count": 2176,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T16:39:02.000Z",
+        "description": "永雏塔菲好糖（甜不会c:",
+        "id": "2065111068356304896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088473855316656301",
+        "name": "Amil",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065111068356304896/1786483591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087289585466306560/KkLSGnDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "Amiluon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

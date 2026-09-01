@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2085065408839606317",
+    "created_at": "2026-08-06T05:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085241335582241060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830059152407814145",
+          "start": 0,
+          "username": "shelly_nice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085241335582241060",
+    "in_reply_to_user_id": "830059152407814145",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085237290377626082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shelly_nice 🥹🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2085065408839606317",
+        "created_at": "2026-08-06T05:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085241335582241060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830059152407814145",
+              "start": 0,
+              "username": "shelly_nice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085241335582241060",
+        "in_reply_to_user_id": "830059152407814145",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085237290377626082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shelly_nice 🥹🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830059152407814145",
+        "conversation_id": "2085065408839606317",
+        "created_at": "2026-08-06T05:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085237290377626082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055365812660133888",
+              "start": 0,
+              "username": "toskamxkl8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085237290377626082",
+        "in_reply_to_user_id": "2055365812660133888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085065408839606317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskamxkl8964 美我一大跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 138,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T14:21:38.000Z",
+        "description": "以爱之名，畅行诸恶\nhttps://t.co/Uwg5c2tJ3e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shelly_nice",
+                "end": 33,
+                "expanded_url": "https://ngl.link/shelly_nice",
+                "start": 10,
+                "url": "https://t.co/Uwg5c2tJ3e"
+              }
+            ]
+          }
+        },
+        "id": "830059152407814145",
+        "location": "Tianjin",
+        "name": "逸",
+        "pinned_tweet_id": "1792910345646002502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1063648464385597441/_rj1Mc3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 63,
+          "like_count": 14185,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 3786
+        },
+        "url": "",
+        "username": "shelly_nice",
+        "verified": false
+      }
+    ]
+  }
+}

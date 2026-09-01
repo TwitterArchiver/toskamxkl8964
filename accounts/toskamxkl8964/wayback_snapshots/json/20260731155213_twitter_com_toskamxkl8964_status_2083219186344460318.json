@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083218657262415873"
+      ]
+    },
+    "author_id": "2055365812660133888",
+    "conversation_id": "2083219186344460318",
+    "created_at": "2026-07-31T15:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083219186344460318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6GHD842qT",
+          "end": 31,
+          "expanded_url": "https://x.com/toskamxkl8964/status/2083219186344460318/video/1",
+          "media_key": "13_2083218657262415873",
+          "start": 8,
+          "url": "https://t.co/H6GHD842qT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083219186344460318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "toska在哭 https://t.co/H6GHD842qT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18366,
+        "height": 1280,
+        "media_key": "13_2083218657262415873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083218657262415873/img/ZOo-7A5MQULndnWy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083218657262415873/vid/avc1/320x568/Ff9zG5V6nFm-PFiC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083218657262415873/vid/avc1/480x852/ZPFE9mi7GGGbD6Lt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083218657262415873/vid/avc1/720x1280/N3G-_AkXWxP-tbO8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083218657262415873/pl/bcCEGNGi8hhggWPV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083218657262415873"
+          ]
+        },
+        "author_id": "2055365812660133888",
+        "conversation_id": "2083219186344460318",
+        "created_at": "2026-07-31T15:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083219186344460318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6GHD842qT",
+              "end": 31,
+              "expanded_url": "https://x.com/toskamxkl8964/status/2083219186344460318/video/1",
+              "media_key": "13_2083218657262415873",
+              "start": 8,
+              "url": "https://t.co/H6GHD842qT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083219186344460318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "toska在哭 https://t.co/H6GHD842qT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 92,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      }
+    ]
+  }
+}

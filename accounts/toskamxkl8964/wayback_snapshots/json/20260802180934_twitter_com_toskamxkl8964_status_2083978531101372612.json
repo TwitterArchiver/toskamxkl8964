@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2083905703849193536",
+    "created_at": "2026-08-02T18:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083978531101372612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779132985666863104",
+          "start": 0,
+          "username": "BabyYu79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083978531101372612",
+    "in_reply_to_user_id": "1779132985666863104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083977542764298288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabyYu79 中国人会飞！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2083905703849193536",
+        "created_at": "2026-08-02T18:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083978531101372612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779132985666863104",
+              "start": 0,
+              "username": "BabyYu79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083978531101372612",
+        "in_reply_to_user_id": "1779132985666863104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083977542764298288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabyYu79 中国人会飞！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779132985666863104",
+        "conversation_id": "2083905703849193536",
+        "created_at": "2026-08-02T18:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083977542764298288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055365812660133888",
+              "start": 0,
+              "username": "toskamxkl8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083977542764298288",
+        "in_reply_to_user_id": "2055365812660133888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083905703849193536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskamxkl8964 想唱直说！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 131,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T13:02:29.000Z",
+        "description": "本人发什么纯属巧合 要骂我先给我钱^_^",
+        "id": "1779132985666863104",
+        "name": "uu",
+        "pinned_tweet_id": "1930997412589416611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083632941339680768/PGRk6O7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 36,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "BabyYu79",
+        "verified": false
+      }
+    ]
+  }
+}

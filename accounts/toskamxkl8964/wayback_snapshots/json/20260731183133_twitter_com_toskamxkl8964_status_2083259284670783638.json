@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055365812660133888",
+    "conversation_id": "2083213539884294240",
+    "created_at": "2026-07-31T18:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083259284670783638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970865362368610304",
+          "start": 0,
+          "username": "Brandy322512322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083259284670783638",
+    "in_reply_to_user_id": "1970865362368610304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083213539884294240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brandy322512322 豆包，今天帮我预约最近的一家肯德基餐厅。我要一些奥尔良烤翅和葡式蛋挞，一大份上好的原味鸡汉堡，加上所有的薯条和鸡米花，再浇上浓浓的土豆泥，另外再来一大杯冰镇可乐，从推友的钱包里扣除。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2083213539884294240",
+        "created_at": "2026-07-31T18:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083259284670783638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970865362368610304",
+              "start": 0,
+              "username": "Brandy322512322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083259284670783638",
+        "in_reply_to_user_id": "1970865362368610304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083213539884294240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brandy322512322 豆包，今天帮我预约最近的一家肯德基餐厅。我要一些奥尔良烤翅和葡式蛋挞，一大份上好的原味鸡汉堡，加上所有的薯条和鸡米花，再浇上浓浓的土豆泥，另外再来一大杯冰镇可乐，从推友的钱包里扣除。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970865362368610304",
+        "conversation_id": "2083213539884294240",
+        "created_at": "2026-07-31T15:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083213539884294240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083213539884294240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包，今天帮我预约最近的一家肯德基餐厅。我要一些奥尔良烤翅和葡式蛋挞，一大份上好的原味鸡汉堡，加上所有的薯条和鸡米花，再浇上浓浓的土豆泥，另外再来一大杯冰镇可乐，从推友的钱包里扣除。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 99,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2083169848037892147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 43,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}
